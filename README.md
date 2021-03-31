@@ -7,4 +7,5 @@ Software requirements:
 -> bcftools (https://github.com/samtools/bcftools/releases/tag/1.12)
 
 To convert UCSC to NCBI names, simply change the map file in the renameCHR.sh to map_UCSC2NCBI.txt
+
 Reference: https://hgdownload.cse.ucsc.edu/goldenpath/hg38/bigZips/hg38.chromAlias.txt
