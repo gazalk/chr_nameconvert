@@ -6,4 +6,4 @@ Converting from NCBI naming convention of chromosomes to UCSC. For example, NC_0
 Software requirements:
 -> bcftools (https://github.com/samtools/bcftools/releases/tag/1.12)
 
-To convert UCSC to NCBI names, simply change the map file in the renameCHR.sh to map_NCBI2UCSC.txt
+To convert UCSC to NCBI names, simply change the map file in the renameCHR.sh to map_UCSC2NCBI.txt
